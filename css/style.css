@@ -1,0 +1,36 @@
+body {
+    background: rgba(5, 105, 30, 0.5);
+    margin-left: 100px;
+    margin-right: 250px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+h1 { 
+    color: rgb(146, 95, 0);
+    font-family: Verdana; 
+}
+
+h2 {
+    font-family: verdana;
+    
+}
+
+p{
+    font-size: 20px;
+}
+
+footer {
+    margin-bottom: 40px;
+}
+
+.foto {
+    margin-bottom: 60px;
+    width: 300px;
+}
+
+.logo {
+    width: 150px;
+}
